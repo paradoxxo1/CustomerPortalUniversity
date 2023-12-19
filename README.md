@@ -20,10 +20,15 @@ Before you begin, ensure you have the following installed:
 ## Project Structure 
 
 BOL (Business Object Layer): Contains the business entities or objects.  
+
 BLL (Business Logic Layer): Implements business logic and rules.  
+
 DAL (Data Access Layer): Manages data access and interacts with the database.  
+
 Contributing  
+
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and contributions are highly appreciated.  
+
 
 ## Getting Started
 
