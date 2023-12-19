@@ -17,6 +17,14 @@ Before you begin, ensure you have the following installed:
 - ASP MVC .NET 8 SDK
 - SQL Server (or any other database of your choice)
 
+## Project Structure 
+
+BOL (Business Object Layer): Contains the business entities or objects.
+BLL (Business Logic Layer): Implements business logic and rules.
+DAL (Data Access Layer): Manages data access and interacts with the database.
+Contributing
+Feel free to contribute to this project by submitting issues or pull requests. Your feedback and contributions are highly appreciated.
+
 ## Getting Started
 
 Follow these steps to set up and run the project locally:
@@ -26,10 +34,4 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/your-username/ntier-architecture-demo.git
 
-## Project Structure 
 
-BOL (Business Object Layer): Contains the business entities or objects.
-BLL (Business Logic Layer): Implements business logic and rules.
-DAL (Data Access Layer): Manages data access and interacts with the database.
-Contributing
-Feel free to contribute to this project by submitting issues or pull requests. Your feedback and contributions are highly appreciated.
